@@ -2,3 +2,4 @@ Instagram
 Reels
 Stories
 Posts
+Comments
